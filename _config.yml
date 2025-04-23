@@ -73,7 +73,7 @@ author:
       url: "https://github.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/xingyu-chen-8a3ba4190"
+      url: "https://www.linkedin.com/in/xingyu-chen-8a3ba4190"
 
 footer:
   links:
@@ -82,10 +82,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/xc017"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/xingyu-chen-8a3ba4190"
 
 defaults:
   # _posts
