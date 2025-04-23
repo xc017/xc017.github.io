@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I’m Xingyu — a data-driven problem solver passionate about using analytics to improve lives. I hold a finance degree and am currently finishing my Master of Data Science. I specialize in uncovering insights using Python, SQL, Tableau, and statistical modeling.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’m actively building:
+
+- A portfolio of real-world data projects  
+- A bioinformatics + glucose-control health app with a growing community on Rednote  
+- Content on Medium to share tips, breakdowns, and visual storytelling
+
+My goal is to land a role as a **Data Analyst**, **Business Analyst**, or **Financial Analyst**, where I can apply my skills to solve meaningful problems.
+
+🔗 Check out my [GitHub Projects](#) and [Medium Posts](#) to see what I’m working on!
