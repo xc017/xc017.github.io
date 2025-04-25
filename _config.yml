@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Homepage
-email:
+title: Xingyu's Portfolio
+email: xingyuchen226@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: xc017
-minimal_mistakes_skin: default
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
@@ -60,14 +60,14 @@ plugins:
 author:
   name   : "Xingyu Chen"
   avatar : "/assets/images/coconut.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm a data science graduate with a background in finance, passionate about turning complex data into clear, actionable insights. I build projects at the intersection of health, tech, and storytelling to drive better decisions and improve lives."
   links:
     - label: "Medium"
       icon: "fas fa-fw fa-link"
       url: "https://medium.com/@xingyuchen226"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Rednote"
+      icon: "fas fa-fw fa-heart"
+      url: "https://www.xiaohongshu.com/user/profile/666136620000000007006d84?xsec_token=YBJSX4Wwf9uVdh1P1lXS-CoNhIyfXXf6pNGUu1PMmSIl8=&xsec_source=app_share&xhsshare=CopyLink&appuid=666136620000000007006d84&apptime=1745546214&share_id=d4f9bef9f68e498d8e005215e3bb3edc"      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -77,9 +77,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Medium"
+      icon: "fas fa-fw fa-link"
+      url: "https://medium.com/@xingyuchen226"
+    - label: "Rednote"
+      icon: "fas fa-fw fa-heart"
+      url: "https://www.xiaohongshu.com/user/profile/666136620000000007006d84?xsec_token=YBJSX4Wwf9uVdh1P1lXS-CoNhIyfXXf6pNGUu1PMmSIl8=&xsec_source=app_share&xhsshare=CopyLink&appuid=666136620000000007006d84&apptime=1745546214&share_id=d4f9bef9f68e498d8e005215e3bb3edc"      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xc017"
