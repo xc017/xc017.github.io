@@ -3,6 +3,7 @@ title: "Uni Project: SARS-CoV-2 Proteomics and Translateomics Analysis"
 date: 2025-04-25
 categories:
   - health
+  - data
 tags:
   - uni project
   - bioinformatics
