@@ -13,4 +13,5 @@ I’m actively building:
 
 My goal is to land a role as a **Data Analyst**, **Business Analyst**, or **Financial Analyst**, where I can apply my skills to solve meaningful problems.
 
-🔗 Check out my [GitHub Projects](#) and [Medium Posts](#) to see what I’m working on!
+🔗 Check out my [GitHub Projects](https://github.com/xc017) and [Medium Posts](https://medium.com/@xingyuchen226) to see what I’m working on!
+
