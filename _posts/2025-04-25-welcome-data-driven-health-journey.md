@@ -1,10 +1,16 @@
 ---
-layout: post
 title: "🌱 Welcome to My Data-Driven Health Journey"
 date: 2025-04-25
-categories: [health, personal, glucose-control]
-tags: [health tracking, insulin resistance, data-driven wellness, uni project, app development]
-excerpt: "Turning my personal recovery into a project-driven health journey—powered by data, science, and tech."
+categories:
+  - health
+  - personal
+  - glucose-control
+tags:
+  - health tracking
+  - insulin resistance
+  - data-driven wellness
+  - uni project
+  - app development
 author_profile: true
 ---
 
