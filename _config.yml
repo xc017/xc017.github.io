@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Xingyu Chen"
   avatar : "/assets/images/coconut.png"
-  bio    : "Data science graduate with a finance background. Portfolio page under development — learn more in the About section."
+  bio    : "Data science graduate with a finance background. Portfolio page under development, learn more in the About section."
   links:
     - label: "Medium"
       icon: "fas fa-fw fa-link"
