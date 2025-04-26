@@ -8,6 +8,7 @@ tags:
   - Shiny
   - Data Visualization
   - Road Safety
+  - uni project
 ---
 
 🚗 This project showcases an interactive Shiny application built using real-world accident data from Victoria, Australia.  
