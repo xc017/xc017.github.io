@@ -1,5 +1,5 @@
 ---
-title: "How Does Childbirth Affect Women's Lives? — A Global and China-Focused Data Exploration"
+title: "Uni Project: How Does Childbirth Affect Women's Lives? — A Global and China-Focused Data Exploration"
 date: 2024-04-26
 categories:
   - data
@@ -8,6 +8,7 @@ tags:
   - Tableau
   - Women's Health
   - Social Analysis
+  - uni project
 ---
 
 This project explores how childbirth affects women's lives across different countries, focusing on fertility trends, maternal health, and parental leave policies.
