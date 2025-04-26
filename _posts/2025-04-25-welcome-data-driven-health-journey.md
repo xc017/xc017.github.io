@@ -20,7 +20,7 @@ This blog is part of my effort to transform a personal health journey into somet
 
 ## 🧬 Why I Started This
 
-In 2023, I was diagnosed with **insulin resistance**, **fatty liver**, and a **lumbar disc herniation** that seriously affected my mobility. That was a wake-up call—and the start of a transformation.
+In 2023, followed by a emergency hospitalisation, I was diagnosed with **insulin resistance**, **fatty liver**, and a **lumbar disc herniation** that seriously affected my mobility. That was a wake-up call—and the start of a transformation.
 
 I began studying evidence-based strategies to:
 - Manage **blood glucose**
@@ -52,7 +52,7 @@ This GitHub site is where I’ll share:
 
 ## 👩‍💻 Who This Is For
 
-This site—and my Xiaohongshu account [小白康复笔记](https://www.xiaohongshu.com/user/profile/666136620000000007006d84?xsec_token=YBJSX4Wwf9uVdh1P1lXS-CoNhIyfXXf6pNGUu1PMmSIl8=&xsec_source=app_share&xhsshare=CopyLink&appuid=666136620000000007006d84&apptime=1745546214&share_id=d4f9bef9f68e498d8e005215e3bb3edc)—are for anyone who:
+This site—and my Xiaohongshu account [小白康复笔记](https://www.xiaohongshu.com/user/profile/666136620000000007006d84?xsec_token=YBJSX4Wwf9uVdh1P1lXS-CoNhIyfXXf6pNGUu1PMmSIl8=&xsec_source=app_share&xhsshare=CopyLink&appuid=666136620000000007006d84&apptime=1745546214&share_id=d4f9bef9f68e498d8e005215e3bb3edc) are for anyone who:
 
 - Manages **insulin resistance**, **blood sugar**, or **weight**
 - Wants **practical health advice backed by data**
