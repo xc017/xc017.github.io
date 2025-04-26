@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Hi, I’m Xingyu — a data-driven problem solver passionate about using analytics to improve lives. I hold a finance degree and am currently finishing my Master of Data Science. I specialize in uncovering insights using Python, SQL, Tableau, and statistical modeling.
+Hi, I’m Xingyu, a data-driven problem solver passionate about using analytics to improve lives. I hold a finance degree and am currently finishing my Master of Data Science. I specialize in uncovering insights using Python, SQL, Tableau, R, and statistical modeling.
 
 I’m actively building:
 
