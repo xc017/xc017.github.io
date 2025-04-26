@@ -9,7 +9,6 @@ tags:
   - health tracking
   - insulin resistance
   - data-driven wellness
-  - uni project
   - app development
 author_profile: true
 ---
