@@ -26,7 +26,7 @@ The dataset includes common health metrics such as:
 - **Uric acid**, **Blood pressure**
 - Lifestyle factors like **Physical activity**, **Smoking**, **Alcohol**, and **Dietary intake**
 
-Target variable: **Presence of Diabetes**
+Target variable: **Risk of Diabetes**
 
 ---
 
