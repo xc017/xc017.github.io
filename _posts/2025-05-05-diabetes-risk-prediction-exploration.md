@@ -1,6 +1,6 @@
 ---
 title: "Diabetes Risk Prediction — A Personal Exploration in Data and Modeling"
-date: 2024-04-26
+date: 2025-05-05
 categories:
   - Personal Project
 tags:
