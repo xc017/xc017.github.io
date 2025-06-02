@@ -116,6 +116,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-# Apply google analytics
-google_analytics: G-GW92GJ6239
